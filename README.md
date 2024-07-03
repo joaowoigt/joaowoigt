@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joaowoigt
 - 👀 I’m interested in Kotlin and Android
-- 🌱 I’m currently working as Android Developer at Jera
+- 🌱 I’m currently working as Android Developer at CI&T
 - 📫 How to reach me joaowoigt@gmail.com
 
 <!---
